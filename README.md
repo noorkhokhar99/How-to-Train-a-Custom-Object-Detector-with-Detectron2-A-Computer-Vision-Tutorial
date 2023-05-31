@@ -2,3 +2,8 @@
 How to Train a Custom Object Detector with Detectron2: A Computer Vision Tutorial
 
 donwload data from this link ; https://drive.google.com/drive/folders/1eaqLyM7y_kizBX4IwRhymHJBqhqD6XQL?usp=sharing
+
+
+# Watch the video
+
+[![Watch the video](https://github.com/noorkhokhar99/Real-time-glasses-on-face-with-python-opencv/blob/master/mq2.webp)]([https://youtu.be/ZcQVxtHCumo?t=42))
